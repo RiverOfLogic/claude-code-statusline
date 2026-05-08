@@ -1,3 +1,4 @@
+[English](README.md)
 # Claude Code Powerline 状态栏
 
 为 [Claude Code](https://claude.ai/code) 定制的 Powerline 风格状态栏。实时显示当前模型、工作目录、Git 分支与状态、输出模式、思考强度、上下文窗口用量和实时时钟 — 采用暖色复古终端配色。
