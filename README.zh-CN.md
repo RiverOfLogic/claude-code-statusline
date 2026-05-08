@@ -36,13 +36,13 @@
 ### macOS / Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USER/REPO/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/RiverOfLogic/claude-code-statusline.git
 ```
 
 或下载后手动运行：
 
 ```bash
-git clone https://github.com/USER/claude-code-statusline.git
+git clone https://github.com/RiverOfLogic/claude-code-statusline.git
 cd claude-code-statusline
 bash install.sh
 ```
@@ -52,7 +52,7 @@ bash install.sh
 在 **PowerShell** 中下载并运行：
 
 ```powershell
-git clone https://github.com/USER/claude-code-statusline.git
+git clone https://github.com/RiverOfLogic/claude-code-statusline.git
 cd claude-code-statusline
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
