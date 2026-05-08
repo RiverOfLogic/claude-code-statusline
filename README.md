@@ -36,14 +36,14 @@ A custom Powerline-style status bar for [Claude Code](https://claude.ai/code). D
 ### macOS / Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USER/REPO/main/dist/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/RiverOfLogic/claude-code-statusline.git
 ```
 
 Or download and run manually:
 
 ```bash
-git clone https://github.com/USER/claude-code-statusline.git
-cd claude-code-statusline/dist
+git clone https://github.com/RiverOfLogic/claude-code-statusline.git
+cd claude-code-statusline
 bash install.sh
 ```
 
@@ -52,8 +52,8 @@ bash install.sh
 Download and run in **PowerShell**:
 
 ```powershell
-git clone https://github.com/USER/claude-code-statusline.git
-cd claude-code-statusline\dist
+git clone https://github.com/RiverOfLogic/claude-code-statusline.git
+cd claude-code-statusline
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
