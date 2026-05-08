@@ -1,6 +1,4 @@
-<p align="right">
-  <a href="./README.zh-CN.md">中文</a>
-</p>
+[简体中文](README.zh-CN.md)
 # Claude Code Powerline Statusline
 
 A custom Powerline-style status bar for [Claude Code](https://claude.ai/code). Displays the current model, working directory, git branch and status, output style, thinking mode, context window usage, and a live clock — all in a warm retro-terminal color scheme.
